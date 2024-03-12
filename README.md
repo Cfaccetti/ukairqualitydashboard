@@ -1,8 +1,8 @@
-# # DESCRIPTION
+# # Description
 
 This project consists of a UK Air Quality Dashboard created using Python libraries Plotly, Dash, matplotlib and pandas, for the course "Python and Apps", run by Code First Girls. The project was created by team members Nasteho Abdi and Claudia Castro Faccetti.
 
-# # KEY FEATURES
+# # Key Features
 
 # Air Quality Dashboard 
 
@@ -16,7 +16,7 @@ If the user is interested in seeing data changes in time, they can select a loca
 
 The time period of the line plot is fixed within the code. Further code will enable the user to input the time period they wish to visualise.
 
-# # HOW TO USE THE PROJECT
+# # How to Use the Project
 
 # Air Quality Dashboard
 
@@ -26,7 +26,7 @@ Upon running the Python code in the file "dashboard-map.py", a dashboard will op
 
 Upon running the Python code in the file "historical-data-locations.py", an input request, asking for the name of the location to examine will appear. Type a location name from the dashboard dropdown list.
 
-# # AUTHOR CONTRIBUTIONS
+# # Author Contributions
 
 Claudia Castro Faccetti created the dashboard, available in the file "dashboard-map.py".
 
