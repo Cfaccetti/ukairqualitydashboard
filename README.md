@@ -6,7 +6,7 @@ This project consists of a UK Air Quality Dashboard created using Python librari
 
 ## Air Quality Dashboard 
 
-The UK Air Quality Dashboard enables the user to see a scatter plot in a map of the United Kingdom, showing PM2.5 (fine dust) concentrations in different locations in the UK with air quality monitoring stations. The user is able to select a specific monitoring station from a dropdown list on the top part of the website. When selecting a location, the map is updated to show only the location selected. On the right side, a ranking of the top 10 locations with higher PM2.5 concentrations in the UK is shown. 
+The UK Air Quality Dashboard enables the user to see a scatter plot in a map of the United Kingdom, showing PM2.5 (fine dust) concentrations in different locations in the UK with air quality monitoring stations. The data was extracted from the open air quality API, OpenAQ (https://openaq.org/). The user is able to select a specific monitoring station from a dropdown list on the top part of the website. When selecting a location, the map is updated to show only the location selected. On the right side, a ranking of the top 10 locations with higher PM2.5 concentrations in the UK is shown. 
 
 The time period of the scatter plot and ranking is fixed within the code. Further work on the dashboard will enable the user to select the time period they wish to visualise. 
 
