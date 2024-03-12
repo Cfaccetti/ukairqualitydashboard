@@ -20,11 +20,11 @@ The time period of the line plot is fixed within the code. Further code will ena
 
 ## Air Quality Dashboard
 
-Upon running the Python code in the file "dashboard-map.py", a dashboard will open on the browser, with the address http://127.0.0.1:8050/.
+Upon running the Python code in the file "dashboard-map.py", a dashboard will open on the browser, with the address http://127.0.0.1:8050/. Note that the API key has been redacted. Insert your own OpenAQ API key tp the code to access the data. 
 
 ## Historical Data for a Specific Location
 
-Upon running the Python code in the file "historical-data-locations.py", an input request, asking for the name of the location to examine will appear. Type a location name from the dashboard dropdown list.
+Upon running the Python code in the file "historical-data-locations.py", an input request, asking for the name of the location to examine will appear. Type a location name from the dashboard dropdown list. Note that the API key has been redacted. Insert your own OpenAQ API key tp the code to access the data. 
 
 # Author Contributions
 
